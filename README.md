@@ -3,7 +3,7 @@
 ## Project Summary
 
 Capture your emotions with Snapmoji. With our iOS app, SnapMoji, our aim is to help
-those with Autism that struggle with identifying different emotions. SnapMoji will guide these individuals
+those with autism that struggle with identifying different emotions. SnapMoji will guide these individuals
 develop their emotional comprehension of close friends and family with a database that the user
 can create to become more familiar with the people close to them. Studies show that those with
 autism have difficulty in identifying emotions in facial expressions, especially emotions that are
